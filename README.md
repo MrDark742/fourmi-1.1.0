@@ -1,5 +1,5 @@
 # fourmi-1.1.0
-The ultimate python package for text formatting. You can use up to 553 colors in this package.
+The ultimate python package for text formatting. You can use up to 554 colors in this package.
 
 # Installation
 You can use this command in your command prompt to download `fourmi-1.1.0`.
